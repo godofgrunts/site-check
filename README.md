@@ -1,6 +1,7 @@
 Very simple python script to check websites every minute  and send emails if they are down.
 
 **Requires Python 2**
+
 *Tested using Python 2.7*
 
 Instructions:
